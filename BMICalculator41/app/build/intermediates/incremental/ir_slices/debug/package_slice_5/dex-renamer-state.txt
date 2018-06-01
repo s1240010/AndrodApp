@@ -1,0 +1,4 @@
+#Tue May 29 16:41:10 JST 2018
+base.0=/Users/koheisato/AndroidStudioProjects/BMICalculator41/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex

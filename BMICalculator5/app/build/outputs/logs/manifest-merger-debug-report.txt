@@ -1,0 +1,33 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator5/app/src/main/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/koheisato/AndroidStudioProjects/BMICalculator5/app/src/main/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/koheisato/AndroidStudioProjects/BMICalculator5/app/src/main/AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator5/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/koheisato/AndroidStudioProjects/BMICalculator5/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/koheisato/AndroidStudioProjects/BMICalculator5/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator5/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator5/app/src/main/AndroidManifest.xml:4:5-12:19
+	android:icon
+		ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator5/app/src/main/AndroidManifest.xml:4:18-47
+activity#com.mamezou.android.bmicalc.BMICalculatorActivity
+ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator5/app/src/main/AndroidManifest.xml:5:9-11:20
+	android:label
+		ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator5/app/src/main/AndroidManifest.xml:5:57-89
+	android:configChanges
+		ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator5/app/src/main/AndroidManifest.xml:6:10-60
+	android:name
+		ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator5/app/src/main/AndroidManifest.xml:5:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator5/app/src/main/AndroidManifest.xml:7:13-10:29
+action#android.intent.action.MAIN
+ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator5/app/src/main/AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator5/app/src/main/AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator5/app/src/main/AndroidManifest.xml:9:17-77
+	android:name
+		ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator5/app/src/main/AndroidManifest.xml:9:27-74

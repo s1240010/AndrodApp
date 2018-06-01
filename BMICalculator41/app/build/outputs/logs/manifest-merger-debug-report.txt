@@ -1,0 +1,75 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:2:70-108
+		INJECTED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:3:5-28:19
+	android:icon
+		ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:3:18-47
+activity#com.mamezou.android.bmicalc4.BMICalculator4Activity
+ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:4:9-9:20
+	android:label
+		ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:4:19-51
+	android:name
+		ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:4:52-89
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:5:13-8:29
+action#android.intent.action.MAIN
+ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:6:17-69
+	android:name
+		ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:6:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:7:17-77
+	android:name
+		ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:7:27-74
+activity#com.mamezou.android.bmicalc4.ResultActivity
+ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:10:9-85
+	android:label
+		ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:10:50-82
+	android:name
+		ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:10:19-49
+receiver#com.mamezou.android.bmicalc4.MaleIntentReceiver
+ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:11:9-16:20
+	android:name
+		ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:11:19-53
+intent-filter#action:name:com.mamezou.android.intent.action.CALCULLATE_BMI+category:name:com.mamezou.android.intent.category.bmi.MALE
+ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:12:13-15:29
+action#com.mamezou.android.intent.action.CALCULLATE_BMI
+ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:13:17-91
+	android:name
+		ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:13:25-88
+category#com.mamezou.android.intent.category.bmi.MALE
+ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:14:17-89
+	android:name
+		ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:14:27-86
+receiver#com.mamezou.android.bmicalc4.FemaleIntentReceiver
+ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:17:9-27:20
+	android:name
+		ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:17:19-55
+intent-filter#action:name:com.mamezou.android.intent.action.CALCULLATE_BMI
+ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:18:13-20:29
+	android:priority
+		ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:18:28-48
+intent-filter#action:name:com.mamezou.android.intent.action.CALCULLATE_BMI_WITH_URI+data:host:+data:pathPrefix:/female+data:scheme:bmi
+ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:21:13-26:29
+	android:priority
+		ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:21:28-48
+action#com.mamezou.android.intent.action.CALCULLATE_BMI_WITH_URI
+ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:22:17-99
+	android:name
+		ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:22:25-97
+data
+ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:23:17-46
+	android:host
+		ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:24:23-38
+	android:scheme
+		ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:23:23-43
+	android:pathPrefix
+		ADDED from /Users/koheisato/AndroidStudioProjects/BMICalculator41/app/src/main/AndroidManifest.xml:25:23-51

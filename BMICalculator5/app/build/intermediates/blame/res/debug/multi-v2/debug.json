@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/koheisato/AndroidStudioProjects/BMICalculator5/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/koheisato/AndroidStudioProjects/BMICalculator5/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,-1,-1,8,3,-1,5",
+                        "startColumns": "4,-1,-1,4,4,-1,4",
+                        "startOffsets": "55,-1,-1,362,106,-1,209",
+                        "endColumns": "50,-1,-1,57,54,-1,52",
+                        "endOffsets": "101,-1,-1,415,156,-1,257"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,106,154,206,264,319,367",
+                        "endColumns": "50,47,51,57,54,47,52",
+                        "endOffsets": "101,149,201,259,314,362,415"
+                    }
+                }
+            ]
+        }
+    ]
+}
